@@ -4,6 +4,7 @@ Tarefa da cadeira estrutura de dados do curso engenharia da computação envolve
 O objetivo era implementar uma IA que obedecesse a uma série de regras estabelecidas pelo professor.
 
 REGRAS:
+
 R1. Se você ou seu oponente tiver duas marcações em sequência, marque o 
 quadrado restante. 
 
